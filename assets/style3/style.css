@@ -1,0 +1,22 @@
+#header .nav_color {
+  background: url('nav_color.png') repeat-x #d52201;
+}
+a ,
+#sidebar1 h2 ,
+#cart .summary .total_price ,
+#pagination a:hover ,
+#collection .title a:hover ,
+#collection .price {
+	color: #d52201;
+}
+#sidebar1 .nav-left .active a,
+#collection .subcategory ul li a:hover ,
+#sidebar1 .list li a:hover ,
+#collection .buy a ,
+#sidebar1 .account fieldset .button {
+	background-color:#d52201;
+	color:#fff;
+}
+#pagination a:hover {
+  border: 1px solid #d52201;
+}
